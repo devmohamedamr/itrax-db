@@ -1,0 +1,18 @@
+{
+    "name": "itrax/db-wrapper",
+    "description": "php wrapper for mysql db",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Itrax\\DbWrapper\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "itrax group",
+            "email": "dev.mohamedamr@gmail.com"
+        }
+    ],
+    "require": {}
+}
